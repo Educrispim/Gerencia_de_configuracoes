@@ -1,1 +1,1 @@
-"# Gerencia_de_configuracoes" 
+#Gerencia_de_configuracoes
